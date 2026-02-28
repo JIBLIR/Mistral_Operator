@@ -1,1 +1,3 @@
-# Mistral Operator  ~Mistral-Hackaton
+# Mistral Operator 
+
+We participate to the mistral hackaton
